@@ -4,17 +4,24 @@ Welcome to this step-by-step tutorial where you’ll learn how to build a fully 
 ✅ What You’ll Learn:
 
 Creating a responsive layout using HTML & CSS
+
 Adding interactive features with JavaScript
+
 Designing a clean and modern UI/UX
+
 Mobile-friendly navigation menu
+
 How to structure a professional agency website
 
 
 🎯 Perfect for:
 
 Web development beginners
+
 Freelancers building agency websites
+
 Students learning HTML, CSS & JavaScript
+
 Portfolio or personal projects
 
 Website Preview: https://animeshmaji.github.io/RoyelHotel/
